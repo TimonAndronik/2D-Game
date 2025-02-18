@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae78a8745854cef48b572e44d756a2f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - closedChestSprite: {fileID: -1905770509, guid: fa460877cb468bf4db395be8f432617d, type: 3}
+  - openChestSprite: {fileID: 888866472, guid: fa460877cb468bf4db395be8f432617d, type: 3}
+  - coinPrefab: {fileID: 6674659727323823577, guid: 47facda2f457401408a423e5e9539487, type: 3}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
